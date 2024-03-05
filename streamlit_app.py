@@ -25,7 +25,7 @@ def main():
 
     #Load Data
     
-    df=pd.read_csv('data/earthquake.csv')
+    df=pd.read_csv('earthquake.csv')
 
     # Sidebar filter for country selection
     selected_country = st.sidebar.selectbox("Select Country", df["country"].unique())
