@@ -18,3 +18,16 @@ Read more: https://medium.com/@shariprasad3296/unveiling-earthquake-patterns-a-g
 - Pandas
 - Folium
 - Geopy
+
+## Usage:
+1. Ensure you have the required libraries installed.
+2. Run the Streamlit application.
+```bash
+streamlit run app.py
+```
+3. Access the webpage here after running the above command: http://localhost:8501/
+
+
+
+
+
